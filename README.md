@@ -12,6 +12,7 @@
 ### d)尝试把本次实验的多个类放置在不同的包中，体会修饰符private的用法；
 # 三、操作过程：
 ### （1）根据课本上的要求、课本上的提示和所学的基础知识，首先创建出三个类分别为：PC、CPU、HardDisk和测试类Test。
+![img](https://github.com/ChenJian-Jia/Java_experiment_two/blob/main/img/1.png)
 ### （2）根据题目要求在CPU类中设置成员变量speed、name、hertz和factory，在HardDisk中设置成员变量amount、shape、size和ID。
 ### （3）在CPU类和HardDisk类中各设置8个方法，针对于四个变量的get和set方法，用来对所接受的参数进行逻辑判断并将符合逻辑判断的参数，利用this关键字将该参数赋值给该类中的成员变量，如果逻辑判断不符合就用else给出相应的提示信息。
 ### （4）在set方法中利用if和else语句进行逻辑判断，在get方法中利用retrun返回该类中的成员变量。
